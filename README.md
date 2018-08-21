@@ -1,5 +1,8 @@
 # EthereumVotingDapp
 
+> Votazione decentralizzata che utilizza Ethereum Virtual Machine
+
+
 Istruzioni:
 
 ``` bash
