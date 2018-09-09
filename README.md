@@ -1,6 +1,7 @@
 # EthereumVotingDapp
 
-> Votazione decentralizzata che utilizza Ethereum Virtual Machine
+> Votazione decentralizzata su rete Ethereum
+
 
 
 Istruzioni:
